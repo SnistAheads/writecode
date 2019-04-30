@@ -1,6 +1,6 @@
 title:            Wrighte Code
 description:      Learb and practice the right code here.
-disqus_shortname: 
+disqus_shortname: wrighte-code
 reading_time:     true
 words_per_minute: 200
 # Your site's domain goes here (eg: https://mmistakes.github.io, http://yourdomain.com, etc)
@@ -9,7 +9,7 @@ url: https://snistaheads.github.io/writecode/
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Stark
   avatar:         avatar.jpg
   bio:            "Your bio goes here. It shouldn't be super long but a good sentence or two should suffice."
   email:          you@email.com
