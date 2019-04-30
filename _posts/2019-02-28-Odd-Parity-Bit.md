@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Post with a Background Image
+title: Odd Parity Bit
 description: "Sample post with a background image CSS override."
-tags: [sample post]
+tags: [bits]
 image:
   background: triangular.png
 ---
